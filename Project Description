@@ -3,4 +3,13 @@ This project is related to recognition of Hindi Characters which are drawn on th
 HindiCharRecognition.py
 
 This python file contains the code for training and validating a Machine Learning model taking the dataset obtained from the ImagetoCSV.py as
-input.
+input. This uses the keras API in TensorFlow and builds a model.
+
+hindi_pred.py
+
+This python file contains the code for loading the model and also contains the entire Computer Vision Code which is used to draw the Hindi 
+Characters on the console.
+
+ImagetoCSV.py
+
+This python file contains code to convert the Image Dataset into a CSV file.
