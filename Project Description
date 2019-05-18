@@ -1,0 +1,6 @@
+This project is related to recognition of Hindi Characters which are drawn on the console using Machine Learning and Tensorflow (Mainly Keras)
+
+HindiCharRecognition.py
+
+This python file contains the code for training and validating a Machine Learning model taking the dataset obtained from the ImagetoCSV.py as
+input.
